@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>Eonasdan-bootstrap-datetimepicker</artifactId>
-    <version>4.7.15-SNAPSHOT</version>
+    <version>4.14.30-SNAPSHOT</version>
     <name>Eonasdan-bootstrap-datetimepicker</name>
     <description>WebJar for Eonasdan-bootstrap-datetimepicker</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>4.7.14</upstream.version>
+        <upstream.version>v4.14.30</upstream.version>
         <upstream.url>https://raw.githubusercontent.com/Eonasdan/bootstrap-datetimepicker/${upstream.version}/build</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
         <requirejs>
