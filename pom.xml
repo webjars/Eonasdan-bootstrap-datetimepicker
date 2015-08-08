@@ -81,7 +81,8 @@
                         <goals><goal>run</goal></goals>
                         <configuration>
                             <target>
-                                <mkdir dir="${destDir}" />
+                                <mkdir dir="${destDir}/css" />
+                                <mkdir dir="${destDir}/js" />
                                 <get src="${upstream.url}/build/css/bootstrap-datetimepicker.css" dest="${destDir}/css/bootstrap-datetimepicker.css" />
                                 <get src="${upstream.url}/build/css/bootstrap-datetimepicker.min.css" dest="${destDir}/css/bootstrap-datetimepicker.min.css" />
                                 <get src="${upstream.url}/build/js/bootstrap-datetimepicker.min.js" dest="${destDir}/js/bootstrap-datetimepicker.min.js" />
