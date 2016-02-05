@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>Eonasdan-bootstrap-datetimepicker</artifactId>
-    <version>4.17.38-SNAPSHOT</version>
+    <version>4.17.37-1-SNAPSHOT</version>
     <name>Eonasdan-bootstrap-datetimepicker</name>
     <description>WebJar for Eonasdan-bootstrap-datetimepicker</description>
     <url>http://webjars.org</url>
@@ -24,7 +24,7 @@
         <requirejs>
             {
                 "paths": {
-                    "Eonasdan-bootstrap-datetimepicker": "bootstrap-datetimepicker.min"
+                    "Eonasdan-bootstrap-datetimepicker": "js/bootstrap-datetimepicker.min"
                 },
                 "shim": {
                     "Eonasdan-bootstrap-datetimepicker": ["bootstrap"]
