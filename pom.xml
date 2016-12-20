@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>Eonasdan-bootstrap-datetimepicker</artifactId>
-    <version>4.17.43</version>
+    <version>4.17.43-SNAPSHOT</version>
     <name>Eonasdan-bootstrap-datetimepicker</name>
     <description>WebJar for Eonasdan-bootstrap-datetimepicker</description>
     <url>http://webjars.org</url>
